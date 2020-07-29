@@ -1,0 +1,17 @@
+@import "./vars";
+
+body {
+  font-size: $base-font-size;
+  line-height: $base-line-height;
+  color: $black;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.title {
+  font-weight: $bold;
+}
